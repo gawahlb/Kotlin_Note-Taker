@@ -1,6 +1,4 @@
-new note
-this is note number 1
-shopping list
-bananas, eggs, milk
-last note
-this is the last note I'm entering
+note 1
+111
+note 3
+333
