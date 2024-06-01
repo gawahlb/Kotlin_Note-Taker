@@ -12,23 +12,19 @@ This software was created primarily to give me an opportunity to use Kotlin and 
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+In order to create this program, I used IntelliJ Idea and displayed it online with GitHub.
 
-In order to create this program, I used IntelliJ Idea and displayed it online with GitHub
-
-{Describe the programming language that you used and any libraries.}
+This program was created using the Kotlin programming language as well as the java File import.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Kotlin Language Website](https://kotlinlang.org/)
+- [Baeldung](https://www.baeldung.com/)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Alter the mutable list to make it an array of arrays to give the notes more function.
+- Allow the program to run as a web, desktop, or mobile app.
+- Clean up the program and make it more concise.
